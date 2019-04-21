@@ -14,7 +14,7 @@ Bamazon is a command line node app that allows user to purchase items available 
     npm install
 
 ## To Run The Program
-**To get a list of Spotify songs run the following command:**
+**To start the Bamazon Application, run the following command:**
 
     node bamazonCustomer.js
 
