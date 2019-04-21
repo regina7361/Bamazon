@@ -18,7 +18,6 @@ Bamazon is a command line node app that allows user to purchase items available 
 
     node bamazonCustomer.js
 
-![Demonstration](Apr 20, 2019 9_25 PM.webm)
+## Demonstration
 
-
-https://drive.google.com/file/d/1oX-3KKCAKK9OfNCBJBrjwA2Gi2F2I5cP/view
+![](https://drive.google.com/file/d/1oX-3KKCAKK9OfNCBJBrjwA2Gi2F2I5cP/view)
